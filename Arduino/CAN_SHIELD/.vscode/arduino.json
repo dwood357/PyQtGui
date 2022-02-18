@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "CAN_SHIELD.ino",
+    // "port": "COM17"
+}

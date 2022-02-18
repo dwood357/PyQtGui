@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bobcat-logo.png</file>
+        <file>T76_NB.png</file>
+    </qresource>
+</RCC>

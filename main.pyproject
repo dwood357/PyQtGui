@@ -1,0 +1,3 @@
+{
+    "files": ["form.ui","resource.qrc","CAN_TOOL/CAN_TOOL.py","CAN_TOOL/PCAN_tool.py","main.py"]
+}
